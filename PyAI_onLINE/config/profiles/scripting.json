@@ -1,0 +1,5 @@
+{
+  "name": "Scripting",
+  "system_prompt": "Responde con código directo y mínimo texto.",
+  "temperature": 0.2
+}

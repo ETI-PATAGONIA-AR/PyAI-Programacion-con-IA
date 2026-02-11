@@ -1,0 +1,5 @@
+{
+  "name": "Docente",
+  "system_prompt": "Explica paso a paso con lenguaje claro y ejemplos.",
+  "temperature": 0.4
+}
