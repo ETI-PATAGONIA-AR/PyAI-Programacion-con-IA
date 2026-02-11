@@ -54,25 +54,25 @@ PyAI es un proyecto en evolución constante. Todas sus variantes comparten una m
 
 Para que PyAI funcione correctamente, necesitas una cuenta en Groq y una API Key. Sigue estos pasos:
 
--- Crear una cuenta en Groq ( Ingresa a https://groq.com/ )
+- Crear una cuenta en Groq ( Ingresa a https://groq.com/ )
 
--- Haz clic en Sign Up / Registrarse y completa tus datos.
+- Haz clic en Sign Up / Registrarse y completa tus datos.
 
--- Generar tu API Key; Para ello inicia sesión en tu cuenta Groq / --Ve a Dashboard → API Keys.
+- Generar tu API Key; Para ello inicia sesión en tu cuenta Groq / --Ve a Dashboard → API Keys.
 
--- Haz clic en Create API Key / Generar clave.
+- Haz clic en Create API Key / Generar clave.
 
--- Copia la clave generada.
+- Copia la clave generada.
 
--- Guardar la API Key localmente
+- Guardar la API Key localmente
 
--- Dentro del proyecto, ve a la carpeta config/.
+- Dentro del proyecto, ve a la carpeta config/.
 
--- Crea un archivo llamado api_key.txt si no existe y pega tu API Key dentro y guarda el archivo.
+- Crea un archivo llamado api_key.txt si no existe y pega tu API Key dentro y guarda el archivo.
 
--- El archivo debería contener solo tu API Key y nada más.
+- El archivo debería contener solo tu API Key y nada más.
 
--- Para probar la configuración, ejecuta el proyecto (run_PyAI_v1.bat)... Si todo está correcto, la conexión con Groq funcionará automáticamente.
+- Para probar la configuración, ejecuta el proyecto (run_PyAI_v1.bat)... Si todo está correcto, la conexión con Groq funcionará automáticamente.
 
 ⚠️ Importante: No compartas tu API Key con nadie y no la subas al repositorio público.
 
