@@ -48,4 +48,4 @@ PyAI es un proyecto en evolución constante. Todas sus variantes comparten una m
 
 ---
 
-** En breve subire la version de PyAI OnLINE **
+** Recuerdend que deben generar sus propias api key de Groq y pegarla en un archivo TXT llamado "api_key.txt" y alojarlo dentro de la carpeta "PyAI_onLINE\config" **
