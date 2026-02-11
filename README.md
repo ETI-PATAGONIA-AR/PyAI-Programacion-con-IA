@@ -51,19 +51,15 @@ PyAI es un proyecto en evolución constante. Todas sus variantes comparten una m
 ** Recuerden que deben generar sus propias api key de Groq y pegarla en un archivo TXT llamado "api_key.txt" y alojarlo dentro de la carpeta "PyAI_onLINE\config" **
 ** Paso los CMD para instalar las dependencias: **
 
-:: ------------------------------------------------------
+---
 
-:: 1️⃣ Actualizar pip a la última versión
-
-:: ------------------------------------------------------
+ 1️⃣ Actualizar pip a la última versión
 
 python -m pip install --upgrade pip
 
-:: ------------------------------------------------------
+---
 
-:: 2️⃣ Instalar dependencias globales del proyecto
-
-:: ------------------------------------------------------
+ 2️⃣ Instalar dependencias globales del proyecto
 
 pip install PyQt5==5.15.11
 
@@ -73,3 +69,4 @@ pip install Pygments==2.19.2
 
 pip install pyttsx3
 
+---
