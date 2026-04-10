@@ -254,3 +254,8 @@ y probá otro modelo
 Lamento en lo mas profundo lo que esta sucediendo, es por ello que voy agilizar las cosas para compartir el modelo OffLINE y no depender de estas cosas insolitas que hacen los proveedores.
 
 Los saludo atte
+
+---
+
+### Desarrollador por
+prof.martintorres@educ.ar
